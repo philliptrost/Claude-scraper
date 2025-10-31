@@ -1,0 +1,177 @@
+[
+  {
+    "Product": "Bowflex Treadmill 22",
+    "Brand": "Bowflex",
+    "Category": "Treadmills",
+    "MSRP": 3499.0,
+    "Sale Price": 2999.0
+  },
+  {
+    "Product": "Bowflex Treadmill 10",
+    "Brand": "Bowflex",
+    "Category": "Treadmills",
+    "MSRP": 2499.0,
+    "Sale Price": 1999.0
+  },
+  {
+    "Product": "Bowflex VeloCore Bike",
+    "Brand": "Bowflex",
+    "Category": "Indoor Cycling Bikes",
+    "MSRP": 1999.0,
+    "Sale Price": 1699.0
+  },
+  {
+    "Product": "Bowflex C6 Bike",
+    "Brand": "Bowflex",
+    "Category": "Indoor Cycling Bikes",
+    "MSRP": 999.0,
+    "Sale Price": 899.0
+  },
+  {
+    "Product": "Bowflex HVT",
+    "Brand": "Bowflex",
+    "Category": "Home Gyms",
+    "MSRP": 1999.0,
+    "Sale Price": null
+  },
+  {
+    "Product": "Bowflex Xtreme 2 SE Home Gym",
+    "Brand": "Bowflex",
+    "Category": "Home Gyms",
+    "MSRP": 1799.0,
+    "Sale Price": 1599.0
+  },
+  {
+    "Product": "Bowflex PR3000 Home Gym",
+    "Brand": "Bowflex",
+    "Category": "Home Gyms",
+    "MSRP": 1499.0,
+    "Sale Price": null
+  },
+  {
+    "Product": "Bowflex Max Trainer M9",
+    "Brand": "Bowflex",
+    "Category": "Ellipticals and Max Trainer",
+    "MSRP": 2199.0,
+    "Sale Price": 1899.0
+  },
+  {
+    "Product": "Bowflex Max Trainer M7",
+    "Brand": "Bowflex",
+    "Category": "Ellipticals and Max Trainer",
+    "MSRP": 1799.0,
+    "Sale Price": 1599.0
+  },
+  {
+    "Product": "Bowflex SelectTech 552 Dumbbells",
+    "Brand": "Bowflex",
+    "Category": "Adjustable Dumbbells",
+    "MSRP": 549.0,
+    "Sale Price": 399.0
+  },
+  {
+    "Product": "Bowflex SelectTech 1090 Dumbbells",
+    "Brand": "Bowflex",
+    "Category": "Adjustable Dumbbells",
+    "MSRP": 799.0,
+    "Sale Price": 649.0
+  },
+  {
+    "Product": "Horizon 7.4 AT Treadmill",
+    "Brand": "Horizon Fitness",
+    "Category": "Treadmills",
+    "MSRP": 1999.0,
+    "Sale Price": 1799.0
+  },
+  {
+    "Product": "Horizon T101 Treadmill",
+    "Brand": "Horizon Fitness",
+    "Category": "Treadmills",
+    "MSRP": 999.0,
+    "Sale Price": 899.0
+  },
+  {
+    "Product": "Horizon 7.0 AT Treadmill",
+    "Brand": "Horizon Fitness",
+    "Category": "Treadmills",
+    "MSRP": 1599.0,
+    "Sale Price": null
+  },
+  {
+    "Product": "Horizon GR7 Indoor Cycle",
+    "Brand": "Horizon Fitness",
+    "Category": "Indoor Cycling Bikes",
+    "MSRP": 1299.0,
+    "Sale Price": 1099.0
+  },
+  {
+    "Product": "Horizon GR3 Indoor Cycle",
+    "Brand": "Horizon Fitness",
+    "Category": "Indoor Cycling Bikes",
+    "MSRP": 799.0,
+    "Sale Price": null
+  },
+  {
+    "Product": "Horizon 7.0 EX Elliptical",
+    "Brand": "Horizon Fitness",
+    "Category": "Ellipticals and Max Trainer",
+    "MSRP": 1599.0,
+    "Sale Price": 1399.0
+  },
+  {
+    "Product": "Horizon EX-59 Elliptical",
+    "Brand": "Horizon Fitness",
+    "Category": "Ellipticals and Max Trainer",
+    "MSRP": 899.0,
+    "Sale Price": 799.0
+  },
+  {
+    "Product": "Schwinn 870 Treadmill",
+    "Brand": "Schwinn",
+    "Category": "Treadmills",
+    "MSRP": 1899.0,
+    "Sale Price": 1699.0
+  },
+  {
+    "Product": "Schwinn 830 Treadmill",
+    "Brand": "Schwinn",
+    "Category": "Treadmills",
+    "MSRP": 1499.0,
+    "Sale Price": null
+  },
+  {
+    "Product": "Schwinn IC4 Indoor Cycling Bike",
+    "Brand": "Schwinn",
+    "Category": "Indoor Cycling Bikes",
+    "MSRP": 999.0,
+    "Sale Price": 899.0
+  },
+  {
+    "Product": "Schwinn IC3 Indoor Cycling Bike",
+    "Brand": "Schwinn",
+    "Category": "Indoor Cycling Bikes",
+    "MSRP": 699.0,
+    "Sale Price": 599.0
+  },
+  {
+    "Product": "Schwinn Airdyne AD7",
+    "Brand": "Schwinn",
+    "Category": "Indoor Cycling Bikes",
+    "MSRP": 1199.0,
+    "Sale Price": null
+  },
+  {
+    "Product": "Schwinn 470 Elliptical",
+    "Brand": "Schwinn",
+    "Category": "Ellipticals and Max Trainer",
+    "MSRP": 1299.0,
+    "Sale Price": 1099.0
+  },
+  {
+    "Product": "Schwinn 411 Elliptical",
+    "Brand": "Schwinn",
+    "Category": "Ellipticals and Max Trainer",
+    "MSRP": 799.0,
+    "Sale Price": 699.0
+  }
+]
